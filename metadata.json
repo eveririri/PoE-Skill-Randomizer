@@ -1,0 +1,5 @@
+{
+  "name": "PoE Skill Randomizer",
+  "description": "A React application for generating builds, viewing game data, and managing build checklists.",
+  "requestFramePermissions": []
+}

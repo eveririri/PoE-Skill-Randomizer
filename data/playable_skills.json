@@ -1,0 +1,2330 @@
+[
+  {
+    "name": "Cleave",
+    "tag": "Attack",
+    "attribute": "Strength",
+    "url": "poewiki.net/wiki/Cleave"
+  },
+  {
+    "name": "Cleave of Rage",
+    "tag": "Attack",
+    "attribute": "Strength",
+    "url": "poewiki.net/wiki/Cleave_of_Rage"
+  },
+  {
+    "name": "Glacial Hammer",
+    "tag": "Strike",
+    "attribute": "Strength",
+    "url": "poewiki.net/wiki/Glacial_Hammer"
+  },
+  {
+    "name": "Glacial Hammer of Shattering",
+    "tag": "Strike",
+    "attribute": "Strength",
+    "url": "poewiki.net/wiki/Glacial_Hammer_of_Shattering"
+  },
+  {
+    "name": "Ground Slam",
+    "tag": "Slam",
+    "attribute": "Strength",
+    "url": "poewiki.net/wiki/Ground_Slam"
+  },
+  {
+    "name": "Ground Slam of Earthshaking",
+    "tag": "Slam",
+    "attribute": "Strength",
+    "url": "poewiki.net/wiki/Ground_Slam_of_Earthshaking"
+  },
+  {
+    "name": "Heavy Strike",
+    "tag": "Strike",
+    "attribute": "Strength",
+    "url": "poewiki.net/wiki/Heavy_Strike"
+  },
+  {
+    "name": "Heavy Strike of Trarthus",
+    "tag": "Strike",
+    "attribute": "Strength",
+    "url": "poewiki.net/wiki/Heavy_Strike_of_Trarthus"
+  },
+  {
+    "name": "Molten Strike",
+    "tag": "Strike",
+    "attribute": "Strength",
+    "url": "poewiki.net/wiki/Molten_Strike"
+  },
+  {
+    "name": "Molten Strike of the Zenith",
+    "tag": "Strike",
+    "attribute": "Strength",
+    "url": "poewiki.net/wiki/Molten_Strike_of_the_Zenith"
+  },
+  {
+    "name": "Perforate",
+    "tag": "Slam",
+    "attribute": "Strength",
+    "url": "poewiki.net/wiki/Perforate"
+  },
+  {
+    "name": "Perforate of Duality",
+    "tag": "Slam",
+    "attribute": "Strength",
+    "url": "poewiki.net/wiki/Perforate_of_Duality"
+  },
+  {
+    "name": "Perforate of Bloodshed",
+    "tag": "Slam",
+    "attribute": "Strength",
+    "url": "poewiki.net/wiki/Perforate_of_Bloodshed"
+  },
+  {
+    "name": "Shield Crush",
+    "tag": "Attack",
+    "attribute": "Strength",
+    "url": "poewiki.net/wiki/Shield_Crush"
+  },
+  {
+    "name": "Shield Crush of the Chieftain",
+    "tag": "Attack",
+    "attribute": "Strength",
+    "url": "poewiki.net/wiki/Shield_Crush_of_the_Chieftain"
+  },
+  {
+    "name": "Smite",
+    "tag": "Strike",
+    "attribute": "Strength",
+    "url": "poewiki.net/wiki/Smite"
+  },
+  {
+    "name": "Smite of Divine Judgement",
+    "tag": "Strike",
+    "attribute": "Strength",
+    "url": "poewiki.net/wiki/Smite_of_Divine_Judgement"
+  },
+  {
+    "name": "Ancestral Protector",
+    "tag": "Totem",
+    "attribute": "Strength",
+    "url": "poewiki.net/wiki/Ancestral_Protector"
+  },
+  {
+    "name": "Crushing Fist",
+    "tag": "Retaliation",
+    "attribute": "Strength",
+    "url": "poewiki.net/wiki/Crushing_Fist"
+  },
+  {
+    "name": "Holy Flame Totem",
+    "tag": "Totem",
+    "attribute": "Strength",
+    "url": "poewiki.net/wiki/Holy_Flame_Totem"
+  },
+  {
+    "name": "Holy Flame Totem of Ire",
+    "tag": "Totem",
+    "attribute": "Strength",
+    "url": "poewiki.net/wiki/Holy_Flame_Totem_of_Ire"
+  },
+  {
+    "name": "Shield Charge",
+    "tag": "Attack",
+    "attribute": "Strength",
+    "url": "poewiki.net/wiki/Shield_Charge"
+  },
+  {
+    "name": "Vigilant Strike",
+    "tag": "Strike",
+    "attribute": "Strength",
+    "url": "poewiki.net/wiki/Vigilant_Strike"
+  },
+  {
+    "name": "Leap Slam",
+    "tag": "Slam",
+    "attribute": "Strength",
+    "url": "poewiki.net/wiki/Leap_Slam"
+  },
+  {
+    "name": "Leap Slam of Groundbreaking",
+    "tag": "Slam",
+    "attribute": "Strength",
+    "url": "poewiki.net/wiki/Leap_Slam_of_Groundbreaking"
+  },
+  {
+    "name": "Absolution",
+    "tag": "Minion",
+    "attribute": "Strength",
+    "url": "poewiki.net/wiki/Absolution"
+  },
+  {
+    "name": "Absolution of Inspiring",
+    "tag": "Minion",
+    "attribute": "Strength",
+    "url": "poewiki.net/wiki/Absolution_of_Inspiring"
+  },
+  {
+    "name": "Chain Hook",
+    "tag": "Attack",
+    "attribute": "Strength",
+    "url": "poewiki.net/wiki/Chain_Hook"
+  },
+  {
+    "name": "Chain Hook of Trarthus",
+    "tag": "Attack",
+    "attribute": "Strength",
+    "url": "poewiki.net/wiki/Chain_Hook_of_Trarthus"
+  },
+  {
+    "name": "Earthshatter",
+    "tag": "Slam",
+    "attribute": "Strength",
+    "url": "poewiki.net/wiki/Earthshatter"
+  },
+  {
+    "name": "Earthshatter of Fragility",
+    "tag": "Slam",
+    "attribute": "Strength",
+    "url": "poewiki.net/wiki/Earthshatter_of_Fragility"
+  },
+  {
+    "name": "Earthshatter of Prominence",
+    "tag": "Slam",
+    "attribute": "Strength",
+    "url": "poewiki.net/wiki/Earthshatter_of_Prominence"
+  },
+  {
+    "name": "Exsanguinate",
+    "tag": "Spell",
+    "attribute": "Strength",
+    "url": "poewiki.net/wiki/Exsanguinate"
+  },
+  {
+    "name": "Exsanguinate of Transmission",
+    "tag": "Spell",
+    "attribute": "Strength",
+    "url": "poewiki.net/wiki/Exsanguinate_of_Transmission"
+  },
+  {
+    "name": "Infernal Blow",
+    "tag": "Strike",
+    "attribute": "Strength",
+    "url": "poewiki.net/wiki/Infernal_Blow"
+  },
+  {
+    "name": "Infernal Blow of Immolation",
+    "tag": "Strike",
+    "attribute": "Strength",
+    "url": "poewiki.net/wiki/Infernal_Blow_of_Immolation"
+  },
+  {
+    "name": "Searing Bond",
+    "tag": "Totem",
+    "attribute": "Strength",
+    "url": "poewiki.net/wiki/Searing_Bond"
+  },
+  {
+    "name": "Static Strike",
+    "tag": "Strike",
+    "attribute": "Strength",
+    "url": "poewiki.net/wiki/Static_Strike"
+  },
+  {
+    "name": "Sunder",
+    "tag": "Slam",
+    "attribute": "Strength",
+    "url": "poewiki.net/wiki/Sunder"
+  },
+  {
+    "name": "Sunder of Earthbreaking",
+    "tag": "Slam",
+    "attribute": "Strength",
+    "url": "poewiki.net/wiki/Sunder_of_Earthbreaking"
+  },
+  {
+    "name": "Sunder of Trarthus",
+    "tag": "Slam",
+    "attribute": "Strength",
+    "url": "poewiki.net/wiki/Sunder_of_Trarthus"
+  },
+  {
+    "name": "Sweep",
+    "tag": "Attack",
+    "attribute": "Strength",
+    "url": "poewiki.net/wiki/Sweep"
+  },
+  {
+    "name": "Volcanic Fissure",
+    "tag": "Slam",
+    "attribute": "Strength",
+    "url": "poewiki.net/wiki/Volcanic_Fissure"
+  },
+  {
+    "name": "Volcanic Fissure of Snaking",
+    "tag": "Slam",
+    "attribute": "Strength",
+    "url": "poewiki.net/wiki/Volcanic_Fissure_of_Snaking"
+  },
+  {
+    "name": "Corrupting Fever",
+    "tag": "Spell",
+    "attribute": "Strength",
+    "url": "poewiki.net/wiki/Corrupting_Fever"
+  },
+  {
+    "name": "Eviscerate",
+    "tag": "Retaliation",
+    "attribute": "Strength",
+    "url": "poewiki.net/wiki/Eviscerate"
+  },
+  {
+    "name": "Herald of Purity",
+    "tag": "Herald",
+    "attribute": "Strength",
+    "url": "poewiki.net/wiki/Herald_of_Purity"
+  },
+  {
+    "name": "Swordstorm",
+    "tag": "Retaliation",
+    "attribute": "Strength",
+    "url": "poewiki.net/wiki/Swordstorm"
+  },
+  {
+    "name": "Animate Guardian",
+    "tag": "Minion",
+    "attribute": "Strength",
+    "url": "poewiki.net/wiki/Animate_Guardian"
+  },
+  {
+    "name": "Animate Guardian of Smiting",
+    "tag": "Minion",
+    "attribute": "Strength",
+    "url": "poewiki.net/wiki/Animate_Guardian_of_Smiting"
+  },
+  {
+    "name": "Bladestorm",
+    "tag": "Attack",
+    "attribute": "Strength",
+    "url": "poewiki.net/wiki/Bladestorm"
+  },
+  {
+    "name": "Bladestorm of Uncertainty",
+    "tag": "Attack",
+    "attribute": "Strength",
+    "url": "poewiki.net/wiki/Bladestorm_of_Uncertainty"
+  },
+  {
+    "name": "Boneshatter",
+    "tag": "Strike",
+    "attribute": "Strength",
+    "url": "poewiki.net/wiki/Boneshatter"
+  },
+  {
+    "name": "Boneshatter of Complex Trauma",
+    "tag": "Strike",
+    "attribute": "Strength",
+    "url": "poewiki.net/wiki/Boneshatter_of_Complex_Trauma"
+  },
+  {
+    "name": "Boneshatter of Carnage",
+    "tag": "Strike",
+    "attribute": "Strength",
+    "url": "poewiki.net/wiki/Boneshatter_of_Carnage"
+  },
+  {
+    "name": "Consecrated Path",
+    "tag": "Slam",
+    "attribute": "Strength",
+    "url": "poewiki.net/wiki/Consecrated_Path"
+  },
+  {
+    "name": "Consecrated Path of Endurance",
+    "tag": "Slam",
+    "attribute": "Strength",
+    "url": "poewiki.net/wiki/Consecrated_Path_of_Endurance"
+  },
+  {
+    "name": "Dominating Blow",
+    "tag": "Minion",
+    "attribute": "Strength",
+    "url": "poewiki.net/wiki/Dominating_Blow"
+  },
+  {
+    "name": "Dominating Blow of Inspiring",
+    "tag": "Minion",
+    "attribute": "Strength",
+    "url": "poewiki.net/wiki/Dominating_Blow_of_Inspiring"
+  },
+  {
+    "name": "Earthquake",
+    "tag": "Slam",
+    "attribute": "Strength",
+    "url": "poewiki.net/wiki/Earthquake"
+  },
+  {
+    "name": "Earthquake of Amplification",
+    "tag": "Slam",
+    "attribute": "Strength",
+    "url": "poewiki.net/wiki/Earthquake_of_Amplification"
+  },
+  {
+    "name": "Ice Crash",
+    "tag": "Slam",
+    "attribute": "Strength",
+    "url": "poewiki.net/wiki/Ice_Crash"
+  },
+  {
+    "name": "Ice Crash of Cadence",
+    "tag": "Slam",
+    "attribute": "Strength",
+    "url": "poewiki.net/wiki/Ice_Crash_of_Cadence"
+  },
+  {
+    "name": "Rage Vortex",
+    "tag": "Attack",
+    "attribute": "Strength",
+    "url": "poewiki.net/wiki/Rage_Vortex"
+  },
+  {
+    "name": "Rage Vortex of Berserking",
+    "tag": "Attack",
+    "attribute": "Strength",
+    "url": "poewiki.net/wiki/Rage_Vortex_of_Berserking"
+  },
+  {
+    "name": "Reap",
+    "tag": "Spell AoE",
+    "attribute": "Strength",
+    "url": "poewiki.net/wiki/Reap"
+  },
+  {
+    "name": "Shockwave Totem",
+    "tag": "Totem",
+    "attribute": "Strength",
+    "url": "poewiki.net/wiki/Shockwave_Totem"
+  },
+  {
+    "name": "Tectonic Slam",
+    "tag": "Slam",
+    "attribute": "Strength",
+    "url": "poewiki.net/wiki/Tectonic_Slam"
+  },
+  {
+    "name": "Tectonic Slam of Cataclysm",
+    "tag": "Slam",
+    "attribute": "Strength",
+    "url": "poewiki.net/wiki/Tectonic_Slam_of_Cataclysm"
+  },
+  {
+    "name": "Frozen Legion",
+    "tag": "Spell AoE",
+    "attribute": "Strength",
+    "url": "poewiki.net/wiki/Frozen_Legion"
+  },
+  {
+    "name": "Frozen Legion of Rallying",
+    "tag": "Spell AoE",
+    "attribute": "Strength",
+    "url": "poewiki.net/wiki/Frozen_Legion_of_Rallying"
+  },
+  {
+    "name": "Summon Flame Golem",
+    "tag": "Golem",
+    "attribute": "Strength",
+    "url": "poewiki.net/wiki/Summon_Flame_Golem"
+  },
+  {
+    "name": "Summon Flame Golem of Hordes",
+    "tag": "Golem",
+    "attribute": "Strength",
+    "url": "poewiki.net/wiki/Summon_Flame_Golem_of_Hordes"
+  },
+  {
+    "name": "Summon Flame Golem of the Meteor",
+    "tag": "Golem",
+    "attribute": "Strength",
+    "url": "poewiki.net/wiki/Summon_Flame_Golem_of_the_Meteor"
+  },
+  {
+    "name": "Summon Stone Golem",
+    "tag": "Golem",
+    "attribute": "Strength",
+    "url": "poewiki.net/wiki/Summon_Stone_Golem"
+  },
+  {
+    "name": "Summon Stone Golem of Hordes",
+    "tag": "Golem",
+    "attribute": "Strength",
+    "url": "poewiki.net/wiki/Summon_Stone_Golem_of_Hordes"
+  },
+  {
+    "name": "Summon Stone Golem of Safeguarding",
+    "tag": "Golem",
+    "attribute": "Strength",
+    "url": "poewiki.net/wiki/Summon_Stone_Golem_of_Safeguarding"
+  },
+  {
+    "name": "Burning Arrow",
+    "tag": "Bow",
+    "attribute": "Dexterity",
+    "url": "poewiki.net/wiki/Burning_Arrow"
+  },
+  {
+    "name": "Burning Arrow of Vigour",
+    "tag": "Bow",
+    "attribute": "Dexterity",
+    "url": "poewiki.net/wiki/Burning_Arrow_of_Vigour"
+  },
+  {
+    "name": "Caustic Arrow",
+    "tag": "Bow",
+    "attribute": "Dexterity",
+    "url": "poewiki.net/wiki/Caustic_Arrow"
+  },
+  {
+    "name": "Caustic Arrow of Poison",
+    "tag": "Bow",
+    "attribute": "Dexterity",
+    "url": "poewiki.net/wiki/Caustic_Arrow_of_Poison"
+  },
+  {
+    "name": "Cobra Lash",
+    "tag": "Attack",
+    "attribute": "Dexterity",
+    "url": "poewiki.net/wiki/Cobra_Lash"
+  },
+  {
+    "name": "Double Strike",
+    "tag": "Strike",
+    "attribute": "Dexterity",
+    "url": "poewiki.net/wiki/Double_Strike"
+  },
+  {
+    "name": "Double Strike of Impaling",
+    "tag": "Strike",
+    "attribute": "Dexterity",
+    "url": "poewiki.net/wiki/Double_Strike_of_Impaling"
+  },
+  {
+    "name": "Double Strike of Momentum",
+    "tag": "Strike",
+    "attribute": "Dexterity",
+    "url": "poewiki.net/wiki/Double_Strike_of_Momentum"
+  },
+  {
+    "name": "Dual Strike",
+    "tag": "Strike",
+    "attribute": "Dexterity",
+    "url": "poewiki.net/wiki/Dual_Strike"
+  },
+  {
+    "name": "Dual Strike of Ambidexterity",
+    "tag": "Strike",
+    "attribute": "Dexterity",
+    "url": "poewiki.net/wiki/Dual_Strike_of_Ambidexterity"
+  },
+  {
+    "name": "Ethereal Knives",
+    "tag": "Spell Projectile",
+    "attribute": "Dexterity",
+    "url": "poewiki.net/wiki/Ethereal_Knives"
+  },
+  {
+    "name": "Ethereal Knives of Lingering Blades",
+    "tag": "Spell Projectile",
+    "attribute": "Dexterity",
+    "url": "poewiki.net/wiki/Ethereal_Knives_of_Lingering_Blades"
+  },
+  {
+    "name": "Ethereal Knives of the Massacre",
+    "tag": "Spell Projectile",
+    "attribute": "Dexterity",
+    "url": "poewiki.net/wiki/Ethereal_Knives_of_the_Massacre"
+  },
+  {
+    "name": "Explosive Trap",
+    "tag": "Trap",
+    "attribute": "Dexterity",
+    "url": "poewiki.net/wiki/Explosive_Trap"
+  },
+  {
+    "name": "Explosive Trap of Shrapnel",
+    "tag": "Trap",
+    "attribute": "Dexterity",
+    "url": "poewiki.net/wiki/Explosive_Trap_of_Shrapnel"
+  },
+  {
+    "name": "Explosive Trap of Magnitude",
+    "tag": "Trap",
+    "attribute": "Dexterity",
+    "url": "poewiki.net/wiki/Explosive_Trap_of_Magnitude"
+  },
+  {
+    "name": "Frost Blades",
+    "tag": "Strike",
+    "attribute": "Dexterity",
+    "url": "poewiki.net/wiki/Frost_Blades"
+  },
+  {
+    "name": "Frost Blades of Katabasis",
+    "tag": "Strike",
+    "attribute": "Dexterity",
+    "url": "poewiki.net/wiki/Frost_Blades_of_Katabasis"
+  },
+  {
+    "name": "Galvanic Arrow",
+    "tag": "Bow",
+    "attribute": "Dexterity",
+    "url": "poewiki.net/wiki/Galvanic_Arrow"
+  },
+  {
+    "name": "Galvanic Arrow of Energy",
+    "tag": "Bow",
+    "attribute": "Dexterity",
+    "url": "poewiki.net/wiki/Galvanic_Arrow_of_Energy"
+  },
+  {
+    "name": "Galvanic Arrow of Surging",
+    "tag": "Bow",
+    "attribute": "Dexterity",
+    "url": "poewiki.net/wiki/Galvanic_Arrow_of_Surging"
+  },
+  {
+    "name": "Ice Shot",
+    "tag": "Bow",
+    "attribute": "Dexterity",
+    "url": "poewiki.net/wiki/Ice_Shot"
+  },
+  {
+    "name": "Ice Shot of Penetration",
+    "tag": "Bow",
+    "attribute": "Dexterity",
+    "url": "poewiki.net/wiki/Ice_Shot_of_Penetration"
+  },
+  {
+    "name": "Spectral Throw",
+    "tag": "Attack",
+    "attribute": "Dexterity",
+    "url": "poewiki.net/wiki/Spectral_Throw"
+  },
+  {
+    "name": "Spectral Throw of Materialising",
+    "tag": "Attack",
+    "attribute": "Dexterity",
+    "url": "poewiki.net/wiki/Spectral_Throw_of_Materialising"
+  },
+  {
+    "name": "Spectral Throw of Trarthus",
+    "tag": "Trap",
+    "attribute": "Dexterity",
+    "url": "poewiki.net/wiki/Spectral_Throw_of_Trarthus"
+  },
+  {
+    "name": "Split Arrow",
+    "tag": "Bow",
+    "attribute": "Dexterity",
+    "url": "poewiki.net/wiki/Split_Arrow"
+  },
+  {
+    "name": "Split Arrow of Splitting",
+    "tag": "Bow",
+    "attribute": "Dexterity",
+    "url": "poewiki.net/wiki/Split_Arrow_of_Splitting"
+  },
+  {
+    "name": "Splitting Steel",
+    "tag": "Attack",
+    "attribute": "Dexterity",
+    "url": "poewiki.net/wiki/Splitting_Steel"
+  },
+  {
+    "name": "Splitting Steel of Ammunition",
+    "tag": "Attack",
+    "attribute": "Dexterity",
+    "url": "poewiki.net/wiki/Splitting_Steel_of_Ammunition"
+  },
+  {
+    "name": "Viper Strike",
+    "tag": "Strike",
+    "attribute": "Dexterity",
+    "url": "poewiki.net/wiki/Viper_Strike"
+  },
+  {
+    "name": "Viper Strike of the Mamba",
+    "tag": "Strike",
+    "attribute": "Dexterity",
+    "url": "poewiki.net/wiki/Viper_Strike_of_the_Mamba"
+  },
+  {
+    "name": "Animate Weapon",
+    "tag": "Minion",
+    "attribute": "Dexterity",
+    "url": "poewiki.net/wiki/Animate_Weapon"
+  },
+  {
+    "name": "Animate Weapon of Self Reflection",
+    "tag": "Minion",
+    "attribute": "Dexterity",
+    "url": "poewiki.net/wiki/Animate_Weapon_of_Self_Reflection"
+  },
+  {
+    "name": "Animate Weapon of Ranged Arms",
+    "tag": "Minion",
+    "attribute": "Dexterity",
+    "url": "poewiki.net/wiki/Animate_Weapon_of_Ranged_Arms"
+  },
+  {
+    "name": "Detonate Dead",
+    "tag": "Spell AoE",
+    "attribute": "Dexterity",
+    "url": "poewiki.net/wiki/Detonate_Dead"
+  },
+  {
+    "name": "Detonate Dead of Scavenging",
+    "tag": "Spell AoE",
+    "attribute": "Dexterity",
+    "url": "poewiki.net/wiki/Detonate_Dead_of_Scavenging"
+  },
+  {
+    "name": "Detonate Dead of Chain Reaction",
+    "tag": "Spell AoE",
+    "attribute": "Dexterity",
+    "url": "poewiki.net/wiki/Detonate_Dead_of_Chain_Reaction"
+  },
+  {
+    "name": "Puncture",
+    "tag": "Bow",
+    "attribute": "Dexterity",
+    "url": "poewiki.net/wiki/Puncture"
+  },
+  {
+    "name": "Puncture of Shanking",
+    "tag": "Strike",
+    "attribute": "Dexterity",
+    "url": "poewiki.net/wiki/Puncture_of_Shanking"
+  },
+  {
+    "name": "Shrapnel Ballista",
+    "tag": "Totem",
+    "attribute": "Dexterity",
+    "url": "poewiki.net/wiki/Shrapnel_Ballista"
+  },
+  {
+    "name": "Shrapnel Ballista of Steel",
+    "tag": "Totem",
+    "attribute": "Dexterity",
+    "url": "poewiki.net/wiki/Shrapnel_Ballista_of_Steel"
+  },
+  {
+    "name": "Blink Arrow of Bombarding Clones",
+    "tag": "Minion",
+    "attribute": "Dexterity",
+    "url": "poewiki.net/wiki/Blink_Arrow_of_Bombarding_Clones"
+  },
+  {
+    "name": "Blink Arrow of Prismatic Clones",
+    "tag": "Minion",
+    "attribute": "Dexterity",
+    "url": "poewiki.net/wiki/Blink_Arrow_of_Prismatic_Clones"
+  },
+  {
+    "name": "Flicker Strike",
+    "tag": "Strike",
+    "attribute": "Dexterity",
+    "url": "poewiki.net/wiki/Flicker_Strike"
+  },
+  {
+    "name": "Flicker Strike of Power",
+    "tag": "Strike",
+    "attribute": "Dexterity",
+    "url": "poewiki.net/wiki/Flicker_Strike_of_Power"
+  },
+  {
+    "name": "Mirror Arrow of Bombarding Clones",
+    "tag": "Minion",
+    "attribute": "Dexterity",
+    "url": "poewiki.net/wiki/Mirror_Arrow_of_Bombarding_Clones"
+  },
+  {
+    "name": "Mirror Arrow of Prismatic Clones",
+    "tag": "Minion",
+    "attribute": "Dexterity",
+    "url": "poewiki.net/wiki/Mirror_Arrow_of_Prismatic_Clones"
+  },
+  {
+    "name": "Unearth",
+    "tag": "Spell Projectile",
+    "attribute": "Dexterity",
+    "url": "poewiki.net/wiki/Unearth"
+  },
+  {
+    "name": "Barrage",
+    "tag": "Bow",
+    "attribute": "Dexterity",
+    "url": "poewiki.net/wiki/Barrage"
+  },
+  {
+    "name": "Barrage of Volley Fire",
+    "tag": "Bow",
+    "attribute": "Dexterity",
+    "url": "poewiki.net/wiki/Barrage_of_Volley_Fire"
+  },
+  {
+    "name": "Blade Trap",
+    "tag": "Trap",
+    "attribute": "Dexterity",
+    "url": "poewiki.net/wiki/Blade_Trap"
+  },
+  {
+    "name": "Blade Trap of Greatswords",
+    "tag": "Trap",
+    "attribute": "Dexterity",
+    "url": "poewiki.net/wiki/Blade_Trap_of_Greatswords"
+  },
+  {
+    "name": "Blade Trap of Laceration",
+    "tag": "Trap",
+    "attribute": "Dexterity",
+    "url": "poewiki.net/wiki/Blade_Trap_of_Laceration"
+  },
+  {
+    "name": "Blade Vortex",
+    "tag": "Spell AoE",
+    "attribute": "Dexterity",
+    "url": "poewiki.net/wiki/Blade_Vortex"
+  },
+  {
+    "name": "Blade Vortex of the Scythe",
+    "tag": "Spell AoE",
+    "attribute": "Dexterity",
+    "url": "poewiki.net/wiki/Blade_Vortex_of_the_Scythe"
+  },
+  {
+    "name": "Elemental Hit",
+    "tag": "Strike",
+    "attribute": "Dexterity",
+    "url": "poewiki.net/wiki/Elemental_Hit"
+  },
+  {
+    "name": "Elemental Hit of the Spectrum",
+    "tag": "Bow",
+    "attribute": "Dexterity",
+    "url": "poewiki.net/wiki/Elemental_Hit_of_the_Spectrum"
+  },
+  {
+    "name": "Fire Trap",
+    "tag": "Trap",
+    "attribute": "Dexterity",
+    "url": "poewiki.net/wiki/Fire_Trap"
+  },
+  {
+    "name": "Fire Trap of Blasting",
+    "tag": "Trap",
+    "attribute": "Dexterity",
+    "url": "poewiki.net/wiki/Fire_Trap_of_Blasting"
+  },
+  {
+    "name": "Lacerate",
+    "tag": "Attack",
+    "attribute": "Dexterity",
+    "url": "poewiki.net/wiki/Lacerate"
+  },
+  {
+    "name": "Lacerate of Butchering",
+    "tag": "Attack",
+    "attribute": "Dexterity",
+    "url": "poewiki.net/wiki/Lacerate_of_Butchering"
+  },
+  {
+    "name": "Lacerate of Haemorrhage",
+    "tag": "Attack",
+    "attribute": "Dexterity",
+    "url": "poewiki.net/wiki/Lacerate_of_Haemorrhage"
+  },
+  {
+    "name": "Lightning Arrow",
+    "tag": "Bow",
+    "attribute": "Dexterity",
+    "url": "poewiki.net/wiki/Lightning_Arrow"
+  },
+  {
+    "name": "Lightning Arrow of Electrocution",
+    "tag": "Bow",
+    "attribute": "Dexterity",
+    "url": "poewiki.net/wiki/Lightning_Arrow_of_Electrocution"
+  },
+  {
+    "name": "Lightning Strike",
+    "tag": "Strike",
+    "attribute": "Dexterity",
+    "url": "poewiki.net/wiki/Lightning_Strike"
+  },
+  {
+    "name": "Lightning Strike of Arcing",
+    "tag": "Strike",
+    "attribute": "Dexterity",
+    "url": "poewiki.net/wiki/Lightning_Strike_of_Arcing"
+  },
+  {
+    "name": "Poisonous Concoction",
+    "tag": "Attack",
+    "attribute": "Dexterity",
+    "url": "poewiki.net/wiki/Poisonous_Concoction"
+  },
+  {
+    "name": "Poisonous Concoction of Bouncing",
+    "tag": "Attack",
+    "attribute": "Dexterity",
+    "url": "poewiki.net/wiki/Poisonous_Concoction_of_Bouncing"
+  },
+  {
+    "name": "Rain of Arrows",
+    "tag": "Bow",
+    "attribute": "Dexterity",
+    "url": "poewiki.net/wiki/Rain_of_Arrows"
+  },
+  {
+    "name": "Rain of Arrows of Artillery",
+    "tag": "Bow",
+    "attribute": "Dexterity",
+    "url": "poewiki.net/wiki/Rain_of_Arrows_of_Artillery"
+  },
+  {
+    "name": "Rain of Arrows of Saturation",
+    "tag": "Bow",
+    "attribute": "Dexterity",
+    "url": "poewiki.net/wiki/Rain_of_Arrows_of_Saturation"
+  },
+  {
+    "name": "Reave",
+    "tag": "Attack",
+    "attribute": "Dexterity",
+    "url": "poewiki.net/wiki/Reave"
+  },
+  {
+    "name": "Reave of Refraction",
+    "tag": "Attack",
+    "attribute": "Dexterity",
+    "url": "poewiki.net/wiki/Reave_of_Refraction"
+  },
+  {
+    "name": "Shattering Steel",
+    "tag": "Attack",
+    "attribute": "Dexterity",
+    "url": "poewiki.net/wiki/Shattering_Steel"
+  },
+  {
+    "name": "Shattering Steel of Ammunition",
+    "tag": "Attack",
+    "attribute": "Dexterity",
+    "url": "poewiki.net/wiki/Shattering_Steel_of_Ammunition"
+  },
+  {
+    "name": "Siege Ballista",
+    "tag": "Totem",
+    "attribute": "Dexterity",
+    "url": "poewiki.net/wiki/Siege_Ballista"
+  },
+  {
+    "name": "Siege Ballista of Splintering",
+    "tag": "Totem",
+    "attribute": "Dexterity",
+    "url": "poewiki.net/wiki/Siege_Ballista_of_Splintering"
+  },
+  {
+    "name": "Siege Ballista of Trarthus",
+    "tag": "Totem",
+    "attribute": "Dexterity",
+    "url": "poewiki.net/wiki/Siege_Ballista_of_Trarthus"
+  },
+  {
+    "name": "Spectral Helix",
+    "tag": "Attack",
+    "attribute": "Dexterity",
+    "url": "poewiki.net/wiki/Spectral_Helix"
+  },
+  {
+    "name": "Spectral Helix of Trarthus",
+    "tag": "Trap",
+    "attribute": "Dexterity",
+    "url": "poewiki.net/wiki/Spectral_Helix_of_Trarthus"
+  },
+  {
+    "name": "Toxic Rain",
+    "tag": "Bow",
+    "attribute": "Dexterity",
+    "url": "poewiki.net/wiki/Toxic_Rain"
+  },
+  {
+    "name": "Toxic Rain of Sporeburst",
+    "tag": "Bow",
+    "attribute": "Dexterity",
+    "url": "poewiki.net/wiki/Toxic_Rain_of_Sporeburst"
+  },
+  {
+    "name": "Toxic Rain of Withering",
+    "tag": "Bow",
+    "attribute": "Dexterity",
+    "url": "poewiki.net/wiki/Toxic_Rain_of_Withering"
+  },
+  {
+    "name": "Venom Gyre",
+    "tag": "Attack",
+    "attribute": "Dexterity",
+    "url": "poewiki.net/wiki/Venom_Gyre"
+  },
+  {
+    "name": "Volatile Dead",
+    "tag": "Spell AoE",
+    "attribute": "Dexterity",
+    "url": "poewiki.net/wiki/Volatile_Dead"
+  },
+  {
+    "name": "Volatile Dead of Confinement",
+    "tag": "Spell AoE",
+    "attribute": "Dexterity",
+    "url": "poewiki.net/wiki/Volatile_Dead_of_Confinement"
+  },
+  {
+    "name": "Volatile Dead of Seething",
+    "tag": "Spell AoE",
+    "attribute": "Dexterity",
+    "url": "poewiki.net/wiki/Volatile_Dead_of_Seething"
+  },
+  {
+    "name": "Blade Blast",
+    "tag": "Spell AoE",
+    "attribute": "Dexterity",
+    "url": "poewiki.net/wiki/Blade_Blast"
+  },
+  {
+    "name": "Blade Blast of Unloading",
+    "tag": "Spell AoE",
+    "attribute": "Dexterity",
+    "url": "poewiki.net/wiki/Blade_Blast_of_Unloading"
+  },
+  {
+    "name": "Blade Blast of Dagger Detonation",
+    "tag": "Spell AoE",
+    "attribute": "Dexterity",
+    "url": "poewiki.net/wiki/Blade_Blast_of_Dagger_Detonation"
+  },
+  {
+    "name": "Ensnaring Arrow",
+    "tag": "Bow",
+    "attribute": "Dexterity",
+    "url": "poewiki.net/wiki/Ensnaring_Arrow"
+  },
+  {
+    "name": "Frenzy",
+    "tag": "Bow",
+    "attribute": "Dexterity",
+    "url": "poewiki.net/wiki/Frenzy"
+  },
+  {
+    "name": "Frenzy of Onslaught",
+    "tag": "Strike",
+    "attribute": "Dexterity",
+    "url": "poewiki.net/wiki/Frenzy_of_Onslaught"
+  },
+  {
+    "name": "Glacial Shield Swipe",
+    "tag": "Retaliation",
+    "attribute": "Dexterity",
+    "url": "poewiki.net/wiki/Glacial_Shield_Swipe"
+  },
+  {
+    "name": "Herald of Agony",
+    "tag": "Herald",
+    "attribute": "Dexterity",
+    "url": "poewiki.net/wiki/Herald_of_Agony"
+  },
+  {
+    "name": "Artillery Ballista",
+    "tag": "Totem",
+    "attribute": "Dexterity",
+    "url": "poewiki.net/wiki/Artillery_Ballista"
+  },
+  {
+    "name": "Artillery Ballista of Cross Strafe",
+    "tag": "Totem",
+    "attribute": "Dexterity",
+    "url": "poewiki.net/wiki/Artillery_Ballista_of_Cross_Strafe"
+  },
+  {
+    "name": "Artillery Ballista of Focus Fire",
+    "tag": "Totem",
+    "attribute": "Dexterity",
+    "url": "poewiki.net/wiki/Artillery_Ballista_of_Focus_Fire"
+  },
+  {
+    "name": "Blade Flurry",
+    "tag": "Attack",
+    "attribute": "Dexterity",
+    "url": "poewiki.net/wiki/Blade_Flurry"
+  },
+  {
+    "name": "Blade Flurry of Incision",
+    "tag": "Attack",
+    "attribute": "Dexterity",
+    "url": "poewiki.net/wiki/Blade_Flurry_of_Incision"
+  },
+  {
+    "name": "Bladefall",
+    "tag": "Spell AoE",
+    "attribute": "Dexterity",
+    "url": "poewiki.net/wiki/Bladefall"
+  },
+  {
+    "name": "Bladefall of Volleys",
+    "tag": "Spell AoE",
+    "attribute": "Dexterity",
+    "url": "poewiki.net/wiki/Bladefall_of_Volleys"
+  },
+  {
+    "name": "Bladefall of Impaling",
+    "tag": "Spell AoE",
+    "attribute": "Dexterity",
+    "url": "poewiki.net/wiki/Bladefall_of_Impaling"
+  },
+  {
+    "name": "Bladefall of Trarthus",
+    "tag": "Spell AoE",
+    "attribute": "Dexterity",
+    "url": "poewiki.net/wiki/Bladefall_of_Trarthus"
+  },
+  {
+    "name": "Blast Rain",
+    "tag": "Bow",
+    "attribute": "Dexterity",
+    "url": "poewiki.net/wiki/Blast_Rain"
+  },
+  {
+    "name": "Blast Rain of Trarthus",
+    "tag": "Bow",
+    "attribute": "Dexterity",
+    "url": "poewiki.net/wiki/Blast_Rain_of_Trarthus"
+  },
+  {
+    "name": "Charged Dash",
+    "tag": "Attack",
+    "attribute": "Dexterity",
+    "url": "poewiki.net/wiki/Charged_Dash"
+  },
+  {
+    "name": "Conflagration",
+    "tag": "Bow",
+    "attribute": "Dexterity",
+    "url": "poewiki.net/wiki/Conflagration"
+  },
+  {
+    "name": "Cremation",
+    "tag": "Spell Projectile",
+    "attribute": "Dexterity",
+    "url": "poewiki.net/wiki/Cremation"
+  },
+  {
+    "name": "Cremation of Exhuming",
+    "tag": "Spell Projectile",
+    "attribute": "Dexterity",
+    "url": "poewiki.net/wiki/Cremation_of_Exhuming"
+  },
+  {
+    "name": "Cremation of the Volcano",
+    "tag": "Spell Projectile",
+    "attribute": "Dexterity",
+    "url": "poewiki.net/wiki/Cremation_of_the_Volcano"
+  },
+  {
+    "name": "Cyclone",
+    "tag": "Attack",
+    "attribute": "Dexterity",
+    "url": "poewiki.net/wiki/Cyclone"
+  },
+  {
+    "name": "Cyclone of Tumult",
+    "tag": "Attack",
+    "attribute": "Dexterity",
+    "url": "poewiki.net/wiki/Cyclone_of_Tumult"
+  },
+  {
+    "name": "Explosive Arrow",
+    "tag": "Bow",
+    "attribute": "Dexterity",
+    "url": "poewiki.net/wiki/Explosive_Arrow"
+  },
+  {
+    "name": "Explosive Concoction",
+    "tag": "Attack",
+    "attribute": "Dexterity",
+    "url": "poewiki.net/wiki/Explosive_Concoction"
+  },
+  {
+    "name": "Explosive Concoction of Destruction",
+    "tag": "Attack",
+    "attribute": "Dexterity",
+    "url": "poewiki.net/wiki/Explosive_Concoction_of_Destruction"
+  },
+  {
+    "name": "Flamethrower Trap",
+    "tag": "Trap",
+    "attribute": "Dexterity",
+    "url": "poewiki.net/wiki/Flamethrower_Trap"
+  },
+  {
+    "name": "Ice Trap",
+    "tag": "Trap",
+    "attribute": "Dexterity",
+    "url": "poewiki.net/wiki/Ice_Trap"
+  },
+  {
+    "name": "Ice Trap of Hollowness",
+    "tag": "Trap",
+    "attribute": "Dexterity",
+    "url": "poewiki.net/wiki/Ice_Trap_of_Hollowness"
+  },
+  {
+    "name": "Lancing Steel",
+    "tag": "Attack",
+    "attribute": "Dexterity",
+    "url": "poewiki.net/wiki/Lancing_Steel"
+  },
+  {
+    "name": "Lancing Steel of Spraying",
+    "tag": "Attack",
+    "attribute": "Dexterity",
+    "url": "poewiki.net/wiki/Lancing_Steel_of_Spraying"
+  },
+  {
+    "name": "Pestilent Strike",
+    "tag": "Strike",
+    "attribute": "Dexterity",
+    "url": "poewiki.net/wiki/Pestilent_Strike"
+  },
+  {
+    "name": "Scourge Arrow",
+    "tag": "Bow",
+    "attribute": "Dexterity",
+    "url": "poewiki.net/wiki/Scourge_Arrow"
+  },
+  {
+    "name": "Scourge Arrow of Menace",
+    "tag": "Bow",
+    "attribute": "Dexterity",
+    "url": "poewiki.net/wiki/Scourge_Arrow_of_Menace"
+  },
+  {
+    "name": "Seismic Trap",
+    "tag": "Trap",
+    "attribute": "Dexterity",
+    "url": "poewiki.net/wiki/Seismic_Trap"
+  },
+  {
+    "name": "Seismic Trap of Swells",
+    "tag": "Trap",
+    "attribute": "Dexterity",
+    "url": "poewiki.net/wiki/Seismic_Trap_of_Swells"
+  },
+  {
+    "name": "Spectral Shield Throw",
+    "tag": "Attack",
+    "attribute": "Dexterity",
+    "url": "poewiki.net/wiki/Spectral_Shield_Throw"
+  },
+  {
+    "name": "Spectral Shield Throw of Shattering",
+    "tag": "Attack",
+    "attribute": "Dexterity",
+    "url": "poewiki.net/wiki/Spectral_Shield_Throw_of_Shattering"
+  },
+  {
+    "name": "Spectral Shield Throw of Trarthus",
+    "tag": "Attack",
+    "attribute": "Dexterity",
+    "url": "poewiki.net/wiki/Spectral_Shield_Throw_of_Trarthus"
+  },
+  {
+    "name": "Storm Rain",
+    "tag": "Bow",
+    "attribute": "Dexterity",
+    "url": "poewiki.net/wiki/Storm_Rain"
+  },
+  {
+    "name": "Storm Rain of the Conduit",
+    "tag": "Bow",
+    "attribute": "Dexterity",
+    "url": "poewiki.net/wiki/Storm_Rain_of_the_Conduit"
+  },
+  {
+    "name": "Storm Rain of the Fence",
+    "tag": "Bow",
+    "attribute": "Dexterity",
+    "url": "poewiki.net/wiki/Storm_Rain_of_the_Fence"
+  },
+  {
+    "name": "Tornado Shot",
+    "tag": "Bow",
+    "attribute": "Dexterity",
+    "url": "poewiki.net/wiki/Tornado_Shot"
+  },
+  {
+    "name": "Tornado Shot of Cloudburst",
+    "tag": "Bow",
+    "attribute": "Dexterity",
+    "url": "poewiki.net/wiki/Tornado_Shot_of_Cloudburst"
+  },
+  {
+    "name": "Wild Strike",
+    "tag": "Strike",
+    "attribute": "Dexterity",
+    "url": "poewiki.net/wiki/Wild_Strike"
+  },
+  {
+    "name": "Wild Strike of Extremes",
+    "tag": "Strike",
+    "attribute": "Dexterity",
+    "url": "poewiki.net/wiki/Wild_Strike_of_Extremes"
+  },
+  {
+    "name": "Ambush",
+    "tag": "Spell",
+    "attribute": "Dexterity",
+    "url": "poewiki.net/wiki/Ambush"
+  },
+  {
+    "name": "Snipe",
+    "tag": "Bow",
+    "attribute": "Dexterity",
+    "url": "poewiki.net/wiki/Snipe"
+  },
+  {
+    "name": "Summon Ice Golem",
+    "tag": "Golem",
+    "attribute": "Dexterity",
+    "url": "poewiki.net/wiki/Summon_Ice_Golem"
+  },
+  {
+    "name": "Summon Ice Golem of Hordes",
+    "tag": "Golem",
+    "attribute": "Dexterity",
+    "url": "poewiki.net/wiki/Summon_Ice_Golem_of_Hordes"
+  },
+  {
+    "name": "Summon Ice Golem of Shattering",
+    "tag": "Golem",
+    "attribute": "Dexterity",
+    "url": "poewiki.net/wiki/Summon_Ice_Golem_of_Shattering"
+  },
+  {
+    "name": "Tornado",
+    "tag": "Spell AoE",
+    "attribute": "Dexterity",
+    "url": "poewiki.net/wiki/Tornado"
+  },
+  {
+    "name": "Tornado of Elemental Turbulence",
+    "tag": "Spell AoE",
+    "attribute": "Dexterity",
+    "url": "poewiki.net/wiki/Tornado_of_Elemental_Turbulence"
+  },
+  {
+    "name": "Blight",
+    "tag": "Spell Channelling",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Blight"
+  },
+  {
+    "name": "Blight of Contagion",
+    "tag": "Spell Channelling",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Blight_of_Contagion"
+  },
+  {
+    "name": "Blight of Atrophy",
+    "tag": "Spell Channelling",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Blight_of_Atrophy"
+  },
+  {
+    "name": "Fireball",
+    "tag": "Spell Projectile",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Fireball"
+  },
+  {
+    "name": "Freezing Pulse",
+    "tag": "Spell Projectile",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Freezing_Pulse"
+  },
+  {
+    "name": "Frostbolt",
+    "tag": "Spell Projectile",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Frostbolt"
+  },
+  {
+    "name": "Kinetic Bolt",
+    "tag": "Wand Attack",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Kinetic_Bolt"
+  },
+  {
+    "name": "Kinetic Bolt of Fragmentation",
+    "tag": "Wand Attack",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Kinetic_Bolt_of_Fragmentation"
+  },
+  {
+    "name": "Lightning Tendrils",
+    "tag": "Spell Channelling",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Lightning_Tendrils"
+  },
+  {
+    "name": "Lightning Tendrils of Eccentricity",
+    "tag": "Spell Channelling",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Lightning_Tendrils_of_Eccentricity"
+  },
+  {
+    "name": "Lightning Tendrils of Escalation",
+    "tag": "Spell Channelling",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Lightning_Tendrils_of_Escalation"
+  },
+  {
+    "name": "Purifying Flame",
+    "tag": "Spell AoE",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Purifying_Flame"
+  },
+  {
+    "name": "Purifying Flame of Revelations",
+    "tag": "Spell AoE",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Purifying_Flame_of_Revelations"
+  },
+  {
+    "name": "Raise Zombie",
+    "tag": "Minion",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Raise_Zombie"
+  },
+  {
+    "name": "Raise Zombie of Slamming",
+    "tag": "Minion",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Raise_Zombie_of_Slamming"
+  },
+  {
+    "name": "Raise Zombie of Falling",
+    "tag": "Minion",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Raise_Zombie_of_Falling"
+  },
+  {
+    "name": "Rolling Magma",
+    "tag": "Spell Projectile",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Rolling_Magma"
+  },
+  {
+    "name": "Spark",
+    "tag": "Spell Projectile",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Spark"
+  },
+  {
+    "name": "Spark of the Nova",
+    "tag": "Spell Projectile",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Spark_of_the_Nova"
+  },
+  {
+    "name": "Spark of Unpredictability",
+    "tag": "Spell Projectile",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Spark_of_Unpredictability"
+  },
+  {
+    "name": "Stormblast Mine",
+    "tag": "Mine",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Stormblast_Mine"
+  },
+  {
+    "name": "Contagion",
+    "tag": "Spell AoE",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Contagion"
+  },
+  {
+    "name": "Contagion of Subsiding",
+    "tag": "Spell AoE",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Contagion_of_Subsiding"
+  },
+  {
+    "name": "Contagion of Transference",
+    "tag": "Spell AoE",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Contagion_of_Transference"
+  },
+  {
+    "name": "Flame Wall",
+    "tag": "Spell AoE",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Flame_Wall"
+  },
+  {
+    "name": "Frost Bomb",
+    "tag": "Spell AoE",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Frost_Bomb"
+  },
+  {
+    "name": "Frost Bomb of Instability",
+    "tag": "Spell AoE",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Frost_Bomb_of_Instability"
+  },
+  {
+    "name": "Frost Bomb of Forthcoming",
+    "tag": "Spell AoE",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Frost_Bomb_of_Forthcoming"
+  },
+  {
+    "name": "Orb of Storms",
+    "tag": "Spell AoE",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Orb_of_Storms"
+  },
+  {
+    "name": "Summon Holy Relic",
+    "tag": "Minion",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Summon_Holy_Relic"
+  },
+  {
+    "name": "Summon Holy Relic of Conviction",
+    "tag": "Minion",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Summon_Holy_Relic_of_Conviction"
+  },
+  {
+    "name": "Summon Raging Spirit",
+    "tag": "Minion",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Summon_Raging_Spirit"
+  },
+  {
+    "name": "Summon Raging Spirit of Enormity",
+    "tag": "Minion",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Summon_Raging_Spirit_of_Enormity"
+  },
+  {
+    "name": "Bodyswap",
+    "tag": "Spell AoE",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Bodyswap"
+  },
+  {
+    "name": "Bodyswap of Sacrifice",
+    "tag": "Minion",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Bodyswap_of_Sacrifice"
+  },
+  {
+    "name": "Siphoning Trap",
+    "tag": "Trap",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Siphoning_Trap"
+  },
+  {
+    "name": "Summon Skeletons",
+    "tag": "Minion",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Summon_Skeletons"
+  },
+  {
+    "name": "Summon Skeletons of Archers",
+    "tag": "Minion",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Summon_Skeletons_of_Archers"
+  },
+  {
+    "name": "Summon Skeletons of Mages",
+    "tag": "Minion",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Summon_Skeletons_of_Mages"
+  },
+  {
+    "name": "Arc",
+    "tag": "Spell",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Arc"
+  },
+  {
+    "name": "Arc of Surging",
+    "tag": "Spell",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Arc_of_Surging"
+  },
+  {
+    "name": "Arc of Oscillating",
+    "tag": "Spell",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Arc_of_Oscillating"
+  },
+  {
+    "name": "Blazing Salvo",
+    "tag": "Spell Projectile",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Blazing_Salvo"
+  },
+  {
+    "name": "Creeping Frost",
+    "tag": "Spell Projectile",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Creeping_Frost"
+  },
+  {
+    "name": "Essence Drain",
+    "tag": "Spell Projectile",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Essence_Drain"
+  },
+  {
+    "name": "Essence Drain of Desperation",
+    "tag": "Spell Projectile",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Essence_Drain_of_Desperation"
+  },
+  {
+    "name": "Essence Drain of Wickedness",
+    "tag": "Spell Projectile",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Essence_Drain_of_Wickedness"
+  },
+  {
+    "name": "Flame Surge",
+    "tag": "Spell AoE",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Flame_Surge"
+  },
+  {
+    "name": "Flame Surge of Combusting",
+    "tag": "Spell AoE",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Flame_Surge_of_Combusting"
+  },
+  {
+    "name": "Ice Nova",
+    "tag": "Spell AoE",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Ice_Nova"
+  },
+  {
+    "name": "Ice Nova of Frostbolts",
+    "tag": "Spell AoE",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Ice_Nova_of_Frostbolts"
+  },
+  {
+    "name": "Ice Nova of Deep Freeze",
+    "tag": "Spell AoE",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Ice_Nova_of_Deep_Freeze"
+  },
+  {
+    "name": "Ice Spear",
+    "tag": "Spell Projectile",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Ice_Spear"
+  },
+  {
+    "name": "Ice Spear of Splitting",
+    "tag": "Spell Projectile",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Ice_Spear_of_Splitting"
+  },
+  {
+    "name": "Icicle Mine",
+    "tag": "Mine",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Icicle_Mine"
+  },
+  {
+    "name": "Icicle Mine of Fanning",
+    "tag": "Mine",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Icicle_Mine_of_Fanning"
+  },
+  {
+    "name": "Icicle Mine of Sabotage",
+    "tag": "Mine",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Icicle_Mine_of_Sabotage"
+  },
+  {
+    "name": "Incinerate",
+    "tag": "Spell Channelling",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Incinerate"
+  },
+  {
+    "name": "Incinerate of Expanse",
+    "tag": "Spell Channelling",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Incinerate_of_Expanse"
+  },
+  {
+    "name": "Incinerate of Venting",
+    "tag": "Spell Channelling",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Incinerate_of_Venting"
+  },
+  {
+    "name": "Kinetic Fusillade",
+    "tag": "Wand Attack",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Kinetic_Fusillade"
+  },
+  {
+    "name": "Lightning Trap",
+    "tag": "Trap",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Lightning_Trap"
+  },
+  {
+    "name": "Lightning Trap of Sparking",
+    "tag": "Trap",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Lightning_Trap_of_Sparking"
+  },
+  {
+    "name": "Manabond",
+    "tag": "Spell AoE",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Manabond"
+  },
+  {
+    "name": "Power Siphon",
+    "tag": "Wand Attack",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Power_Siphon"
+  },
+  {
+    "name": "Power Siphon of the Archmage",
+    "tag": "Wand Attack",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Power_Siphon_of_the_Archmage"
+  },
+  {
+    "name": "Scorching Ray",
+    "tag": "Spell Channelling",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Scorching_Ray"
+  },
+  {
+    "name": "Scorching Ray of Immolation",
+    "tag": "Spell Channelling",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Scorching_Ray_of_Immolation"
+  },
+  {
+    "name": "Storm Brand",
+    "tag": "Spell AoE",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Storm_Brand"
+  },
+  {
+    "name": "Storm Brand of Indecision",
+    "tag": "Spell AoE",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Storm_Brand_of_Indecision"
+  },
+  {
+    "name": "Storm Burst",
+    "tag": "Spell Channelling",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Storm_Burst"
+  },
+  {
+    "name": "Storm Call",
+    "tag": "Spell AoE",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Storm_Call"
+  },
+  {
+    "name": "Storm Call of Trarthus",
+    "tag": "Spell AoE",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Storm_Call_of_Trarthus"
+  },
+  {
+    "name": "Voltaxic Burst",
+    "tag": "Spell AoE",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Voltaxic_Burst"
+  },
+  {
+    "name": "Wintertide Brand",
+    "tag": "Spell AoE",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Wintertide_Brand"
+  },
+  {
+    "name": "Cold Snap",
+    "tag": "Spell AoE",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Cold_Snap"
+  },
+  {
+    "name": "Cold Snap of Power",
+    "tag": "Spell AoE",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Cold_Snap_of_Power"
+  },
+  {
+    "name": "Divine Retribution",
+    "tag": "Retaliation",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Divine_Retribution"
+  },
+  {
+    "name": "Forbidden Rite",
+    "tag": "Spell Projectile",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Forbidden_Rite"
+  },
+  {
+    "name": "Forbidden Rite of Soul Sacrifice",
+    "tag": "Spell Projectile",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Forbidden_Rite_of_Soul_Sacrifice"
+  },
+  {
+    "name": "Galvanic Field",
+    "tag": "Spell AoE",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Galvanic_Field"
+  },
+  {
+    "name": "Galvanic Field of Intensity",
+    "tag": "Spell AoE",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Galvanic_Field_of_Intensity"
+  },
+  {
+    "name": "Herald of Thunder",
+    "tag": "Herald",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Herald_of_Thunder"
+  },
+  {
+    "name": "Righteous Fire",
+    "tag": "Spell AoE",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Righteous_Fire"
+  },
+  {
+    "name": "Righteous Fire of Arcane Devotion",
+    "tag": "Spell AoE",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Righteous_Fire_of_Arcane_Devotion"
+  },
+  {
+    "name": "Wave of Conviction",
+    "tag": "Spell AoE",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Wave_of_Conviction"
+  },
+  {
+    "name": "Wave of Conviction of Trarthus",
+    "tag": "Spell AoE",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Wave_of_Conviction_of_Trarthus"
+  },
+  {
+    "name": "Armageddon Brand",
+    "tag": "Spell AoE",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Armageddon_Brand"
+  },
+  {
+    "name": "Armageddon Brand of Volatility",
+    "tag": "Spell AoE",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Armageddon_Brand_of_Volatility"
+  },
+  {
+    "name": "Armageddon Brand of Recall",
+    "tag": "Spell AoE",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Armageddon_Brand_of_Recall"
+  },
+  {
+    "name": "Ball Lightning",
+    "tag": "Spell Projectile",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Ball_Lightning"
+  },
+  {
+    "name": "Ball Lightning of Orbiting",
+    "tag": "Spell Projectile",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Ball_Lightning_of_Orbiting"
+  },
+  {
+    "name": "Ball Lightning of Static",
+    "tag": "Spell AoE",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Ball_Lightning_of_Static"
+  },
+  {
+    "name": "Crackling Lance",
+    "tag": "Spell AoE",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Crackling_Lance"
+  },
+  {
+    "name": "Crackling Lance of Branching",
+    "tag": "Spell AoE",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Crackling_Lance_of_Branching"
+  },
+  {
+    "name": "Crackling Lance of Disintegration",
+    "tag": "Spell AoE",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Crackling_Lance_of_Disintegration"
+  },
+  {
+    "name": "Dark Pact",
+    "tag": "Spell AoE",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Dark_Pact"
+  },
+  {
+    "name": "Dark Pact of Trarthus",
+    "tag": "Spell AoE",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Dark_Pact_of_Trarthus"
+  },
+  {
+    "name": "Discharge",
+    "tag": "Spell AoE",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Discharge"
+  },
+  {
+    "name": "Discharge of Misery",
+    "tag": "Spell AoE",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Discharge_of_Misery"
+  },
+  {
+    "name": "Divine Ire",
+    "tag": "Spell Channelling",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Divine_Ire"
+  },
+  {
+    "name": "Divine Ire of Holy Lightning",
+    "tag": "Spell Channelling",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Divine_Ire_of_Holy_Lightning"
+  },
+  {
+    "name": "Divine Ire of Disintegration",
+    "tag": "Spell Channelling",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Divine_Ire_of_Disintegration"
+  },
+  {
+    "name": "Eye of Winter",
+    "tag": "Spell Projectile",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Eye_of_Winter"
+  },
+  {
+    "name": "Eye of Winter of Finality",
+    "tag": "Spell Projectile",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Eye_of_Winter_of_Finality"
+  },
+  {
+    "name": "Eye of Winter of Transience",
+    "tag": "Spell Projectile",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Eye_of_Winter_of_Transience"
+  },
+  {
+    "name": "Firestorm",
+    "tag": "Spell AoE",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Firestorm"
+  },
+  {
+    "name": "Firestorm of Meteors",
+    "tag": "Spell AoE",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Firestorm_of_Meteors"
+  },
+  {
+    "name": "Firestorm of Pelting",
+    "tag": "Spell AoE",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Firestorm_of_Pelting"
+  },
+  {
+    "name": "Flameblast",
+    "tag": "Spell Channelling",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Flameblast"
+  },
+  {
+    "name": "Flameblast of Celerity",
+    "tag": "Spell Channelling",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Flameblast_of_Celerity"
+  },
+  {
+    "name": "Flameblast of Contraction",
+    "tag": "Spell Channelling",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Flameblast_of_Contraction"
+  },
+  {
+    "name": "Glacial Cascade",
+    "tag": "Spell AoE",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Glacial_Cascade"
+  },
+  {
+    "name": "Glacial Cascade of the Fissure",
+    "tag": "Spell AoE",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Glacial_Cascade_of_the_Fissure"
+  },
+  {
+    "name": "Hexblast",
+    "tag": "Spell AoE",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Hexblast"
+  },
+  {
+    "name": "Hexblast of Contradiction",
+    "tag": "Spell AoE",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Hexblast_of_Contradiction"
+  },
+  {
+    "name": "Hexblast of Havoc",
+    "tag": "Spell AoE",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Hexblast_of_Havoc"
+  },
+  {
+    "name": "Kinetic Blast",
+    "tag": "Wand Attack",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Kinetic_Blast"
+  },
+  {
+    "name": "Kinetic Blast of Clustering",
+    "tag": "Wand Attack",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Kinetic_Blast_of_Clustering"
+  },
+  {
+    "name": "Kinetic Rain of Impact",
+    "tag": "Wand Attack",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Kinetic_Rain_of_Impact"
+  },
+  {
+    "name": "Lightning Conduit",
+    "tag": "Spell AoE",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Lightning_Conduit"
+  },
+  {
+    "name": "Lightning Conduit of the Heavens",
+    "tag": "Spell AoE",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Lightning_Conduit_of_the_Heavens"
+  },
+  {
+    "name": "Lightning Spire Trap",
+    "tag": "Trap",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Lightning_Spire_Trap"
+  },
+  {
+    "name": "Lightning Spire Trap of Zapping",
+    "tag": "Trap",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Lightning_Spire_Trap_of_Zapping"
+  },
+  {
+    "name": "Lightning Spire Trap of Overloading",
+    "tag": "Trap",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Lightning_Spire_Trap_of_Overloading"
+  },
+  {
+    "name": "Penance Brand",
+    "tag": "Spell AoE",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Penance_Brand"
+  },
+  {
+    "name": "Penance Brand of Dissipation",
+    "tag": "Spell AoE",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Penance_Brand_of_Dissipation"
+  },
+  {
+    "name": "Penance Brand of Conduction",
+    "tag": "Spell AoE",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Penance_Brand_of_Conduction"
+  },
+  {
+    "name": "Pyroclast Mine",
+    "tag": "Mine",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Pyroclast_Mine"
+  },
+  {
+    "name": "Pyroclast Mine of Sabotage",
+    "tag": "Mine",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Pyroclast_Mine_of_Sabotage"
+  },
+  {
+    "name": "Raise Spectre",
+    "tag": "Minion",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Raise_Spectre"
+  },
+  {
+    "name": "Raise Spectre of Transience",
+    "tag": "Minion",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Raise_Spectre_of_Transience"
+  },
+  {
+    "name": "Shock Nova",
+    "tag": "Spell AoE",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Shock_Nova"
+  },
+  {
+    "name": "Somatic Shell",
+    "tag": "Wand Attack",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Somatic_Shell"
+  },
+  {
+    "name": "Soulrend",
+    "tag": "Spell Projectile",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Soulrend"
+  },
+  {
+    "name": "Soulrend of Reaping",
+    "tag": "Spell Projectile",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Soulrend_of_Reaping"
+  },
+  {
+    "name": "Soulrend of the Spiral",
+    "tag": "Spell Projectile",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Soulrend_of_the_Spiral"
+  },
+  {
+    "name": "Stormbind",
+    "tag": "Spell Channelling",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Stormbind"
+  },
+  {
+    "name": "Stormbind of Teleportation",
+    "tag": "Spell Channelling",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Stormbind_of_Teleportation"
+  },
+  {
+    "name": "Summon Reaper",
+    "tag": "Minion",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Summon_Reaper"
+  },
+  {
+    "name": "Summon Reaper of Revenants",
+    "tag": "Minion",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Summon_Reaper_of_Revenants"
+  },
+  {
+    "name": "Summon Reaper of Eviscerating",
+    "tag": "Minion",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Summon_Reaper_of_Eviscerating"
+  },
+  {
+    "name": "Vortex",
+    "tag": "Spell AoE",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Vortex"
+  },
+  {
+    "name": "Vortex of Projection",
+    "tag": "Spell AoE",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Vortex_of_Projection"
+  },
+  {
+    "name": "Winter Orb",
+    "tag": "Spell Channelling",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Winter_Orb"
+  },
+  {
+    "name": "Summon Carrion Golem",
+    "tag": "Golem",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Summon_Carrion_Golem"
+  },
+  {
+    "name": "Summon Carrion Golem of Hordes",
+    "tag": "Golem",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Summon_Carrion_Golem_of_Hordes"
+  },
+  {
+    "name": "Summon Carrion Golem of Scavenging",
+    "tag": "Golem",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Summon_Carrion_Golem_of_Scavenging"
+  },
+  {
+    "name": "Summon Chaos Golem",
+    "tag": "Golem",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Summon_Chaos_Golem"
+  },
+  {
+    "name": "Summon Chaos Golem of Hordes",
+    "tag": "Golem",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Summon_Chaos_Golem_of_Hordes"
+  },
+  {
+    "name": "Summon Chaos Golem of the Maelström",
+    "tag": "Golem",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Summon_Chaos_Golem_of_the_Maelström"
+  },
+  {
+    "name": "Summon Lightning Golem",
+    "tag": "Golem",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Summon_Lightning_Golem"
+  },
+  {
+    "name": "Summon Lightning Golem of Hordes",
+    "tag": "Golem",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Summon_Lightning_Golem_of_Hordes"
+  },
+  {
+    "name": "Impending Doom Support",
+    "tag": "Unique",
+    "attribute": "Intelligence",
+    "url": "poewiki.net/wiki/Impending_Doom_Support"
+  },
+  {
+    "name": "Ngamahu's Flame",
+    "tag": "Unique",
+    "attribute": "Unique",
+    "url": "poewiki.net/wiki/Ngamahu%27s_Flame"
+  },
+  {
+    "name": "The Dancing Dervish",
+    "tag": "Unique",
+    "attribute": "Unique",
+    "url": "poewiki.net/wiki/The_Dancing_Dervish"
+  },
+  {
+    "name": "The Rippling Thoughts",
+    "tag": "Unique",
+    "attribute": "Unique",
+    "url": "poewiki.net/wiki/The_Rippling_Thoughts"
+  },
+  {
+    "name": "Uul-Netol's Embrace",
+    "attribute": "Unique",
+    "tag": "Unique",
+    "url": "poewiki.net/wiki/Uul-Netol%27s_Embrace"
+  },
+  {
+    "name": "Atziri's Rule",
+    "attribute": "Unique",
+    "tag": "Unique",
+    "url": "poewiki.net/wiki/Atziri%27s_Rule"
+  },
+  {
+    "name": "Starcaller",
+    "attribute": "Unique",
+    "tag": "Unique",
+    "url": "poewiki.net/wiki/Starcaller"
+  },
+  {
+    "name": "Doryani's Fist",
+    "attribute": "Unique",
+    "tag": "Unique",
+    "url": "poewiki.net/wiki/Doryani's_Fist"
+  },
+  {
+    "name": "Relic of the Pact",
+    "attribute": "Unique",
+    "tag": "Unique",
+    "url": "poewiki.net/wiki/Relic_of_the_Pact"
+  },
+  {
+    "name": "The Whispering Ice",
+    "attribute": "Unique",
+    "tag": "Unique",
+    "url": "poewiki.net/wiki/The_Whispering_Ice"
+  },
+  {
+    "name": "Legacy of the Rose",
+    "attribute": "Unique",
+    "tag": "Unique",
+    "url": "poewiki.net/wiki/Legacy_of_the_Rose"
+  },
+  {
+    "name": "Witchhunter's Judgment",
+    "attribute": "Unique",
+    "tag": "Unique",
+    "url": "poewiki.net/wiki/Witchhunter's_Judgment"
+  },
+  {
+    "name": "The Hidden Blade",
+    "attribute": "Unique",
+    "tag": "Unique",
+    "url": "poewiki.net/wiki/The_Hidden_Blade"
+  },
+  {
+    "name": "Death's Oath",
+    "attribute": "Unique",
+    "tag": "Unique",
+    "url": "poewiki.net/wiki/Death's_Oath"
+  }
+]
